@@ -1,0 +1,6 @@
+cert
+logs
+node_modules
+messenger.log
+config.js
+!.gitkeep
